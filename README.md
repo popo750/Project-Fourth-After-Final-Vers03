@@ -2,5 +2,5 @@
 
 Cette version 03 du projet 04 - Optimisez un site web existant
 a un contraste de couleurs :
-texte-couleur : blanc
-Arrière-plan : marron
+texte-couleur : bleu foncé
+Arrière-plan : "orange"
